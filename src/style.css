@@ -1,0 +1,24 @@
+body {
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+  }
+  
+  .botones {
+    display: grid;
+    margin-left: 31%;
+  }
+  
+  .btn {
+    margin-top: 10px;
+    width: 40%;
+  }
+  
+  .imgP {
+    width: 100px;
+  }
+  
+  .fondonegro {
+    filter: brightness(0);
+  }
+  
